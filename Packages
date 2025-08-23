@@ -1,0 +1,16 @@
+Package: com.bekes-505.github.io.amberrootless
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Description: اداة وظيفتها : تغيير لون الفلاش الاصفر عوضاُ عن الابيض
+Section: Tweaks
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: ./debs/AmberRootless.deb
+Size: 18584
+Installed-Size: 18
+MD5sum: a8a2b71af0058c9853143e1843e98e12
+SHA1: 0baf277f61423b9d33587d8f28fc2b89ada32764
+SHA256: f14fcad3bae2e1072cebf81cdf248a91c7d38c39b7eabe1bf133ee5bf7346a3a
+Name: Amber Rootless
+Author: BekEs - بيكاس
+
