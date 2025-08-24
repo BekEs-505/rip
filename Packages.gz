@@ -1,232 +1,172 @@
-Package: com.bekes-505.github.io.amberrootless
-Version: 1.2.1
-Architecture: iphoneos-arm64
-Maintainer: @B6_7E
-Description: ÃÂÃÂ§ÃÂÃÂ¯ÃÂÃÂ§ÃÂÃÂ© ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ§ : ÃÂÃÂªÃÂÃÂºÃÂÃÂÃÂÃÂÃÂÃÂ± ÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂ´ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ§ÃÂÃÂµÃÂÃÂÃÂÃÂ± ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ¶ÃÂÃÂ§ÃÂÃÂ ÃÂÃÂ¹ÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ§ÃÂÃÂ¨ÃÂÃÂÃÂÃÂ¶
-Section: Tweaks
-Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
-Filename: ./debs/AmberRootless.deb
-Size: 18584
-Installed-Size: 18
-MD5sum: a8a2b71af0058c9853143e1843e98e12
-SHA1: 0baf277f61423b9d33587d8f28fc2b89ada32764
-SHA256: f14fcad3bae2e1072cebf81cdf248a91c7d38c39b7eabe1bf133ee5bf7346a3a
-Name: Amber Rootless
-Author: BekEs - ÃÂÃÂ¨ÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂ³
 
-Package: A-FontRootless.deb
-Version: 
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: A-FontRootless.deb package for iOS
-Section: Tweaks
-Filename: ./debs/A-FontRootless.deb
-Size: 1621940
-Installed-Size: 1583
-MD5sum: 79da18011a5cbf640b2af05491aed37e
-SHA1: 298f9bd2f75e1e5bb4b65dc006d1b429d41c417f
-SHA256: 316b27f27c91e332e1c0578eb560aa57581130021c224f59e12dc16bb4a4c869
-Name: A-FontRootless.deb
-
-Package: AnActuallyGoodFilzaEditorRootless.deb
-Version: 
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: AnActuallyGoodFilzaEditorRootless.deb package for iOS
-Section: Tweaks
-Filename: ./debs/AnActuallyGoodFilzaEditorRootless.deb
-Size: 121152
-Installed-Size: 118
-MD5sum: bb2b818c14cb59ce69f72452df4c69c5
-SHA1: d3a35c685256ad809c1df81ae8e435f4ab95b76d
-SHA256: ddc2a92c89c4275fcdc76d4d57639417f1624b4dad6952b99ea3eea286e24e97
-Name: AnActuallyGoodFilzaEditorRootless.deb
-
-Package: ABetterPrivacyforWhatsAppRootless.deb
-Version: 
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: ABetterPrivacyforWhatsAppRootless.deb package for iOS
-Section: Tweaks
-Filename: ./debs/ABetterPrivacyforWhatsAppRootless.deb
-Size: 146136
-Installed-Size: 142
-MD5sum: 89fb87f63e68f42267f2f42190b10064
-SHA1: 673806ffa68ce1e5ba7cb3f873d2735c305fe9fe
-SHA256: 2891696a56dadf674c31f61aa0d4d76e0f48b352950ce04696b0be3e0b16b2d6
-Name: ABetterPrivacyforWhatsAppRootless.deb
-
-Package: AppDataRootless.deb
-Version: 
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: AppDataRootless.deb package for iOS
-Section: Tweaks
-Filename: ./debs/AppDataRootless.deb
-Size: 995356
-Installed-Size: 972
-MD5sum: 07f05269fd888b61aeb5a703802b7588
-SHA1: 2132cb203671a72753c1fdee4d471443129b0eed
-SHA256: d291fd2e7b00b0a3a9b8ce5a8c228526d54fc6c50ad1a0d330c5b0b1c4ae898e
-Name: AppDataRootless.deb
-Header: https://raw.githubusercontent.com/BekEs-505/rip/main/headers/AppDataRootless.deb.png
-
-Package: AnsweringMachineXSRootless.deb
-Version: 
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: AnsweringMachineXSRootless.deb package for iOS
-Section: Tweaks
-Filename: ./debs/AnsweringMachineXSRootless.deb
-Size: 750674
-Installed-Size: 733
-MD5sum: ae584290b6e08a1310169c969ce94a63
-SHA1: 750826eed6c12e5fe0af32ba6135853438b6bef4
-SHA256: e3d0b64e407103e3de6a6461b6a0b5ff955c536d784a6d1e8bdd7a8d4896ce96
-Name: AnsweringMachineXSRootless.deb
-
-Package: AppPadRootless.deb
-Version: 
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: AppPadRootless.deb package for iOS
-Section: Tweaks
-Filename: ./debs/AppPadRootless.deb
-Size: 6936
-Installed-Size: 6
-MD5sum: 0daeeb73dcafa72f49234b5d885e980e
-SHA1: 93e6730b5891e6e917069b58e48cd5952fccc7cc
-SHA256: 89f59cacd98d40b4fdb86ddb4fe0e1f6ddc87ffd21ffd0dd8e4bbc0665ba448d
-Name: AppPadRootless.deb
-
-Package: AutoScrollRootless.deb
-Version: 
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: AutoScrollRootless.deb package for iOS
-Section: Tweaks
-Filename: ./debs/AutoScrollRootless.deb
-Size: 8230
-Installed-Size: 8
-MD5sum: 579796f52bdbd7f9fefdb45ff7773347
-SHA1: d232047bfeeb2d3fca88ee0a59bc98684f62729e
-SHA256: 24eaccf2e32fc4ecb3d6673dd66175601ecf9ea53ff77bd8c3188a6a6bcb7a4d
-Name: AutoScrollRootless.deb
-
-Package: AppStore++Rootless.deb
-Version: 
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: AppStore++Rootless.deb package for iOS
-Section: Tweaks
-Filename: ./debs/AppStore++Rootless.deb
-Size: 16985452
-Installed-Size: 16587
-MD5sum: 4585236b555777cb4cf2a3851c82d7f7
-SHA1: c6c69b0db3e7826b42e0fb8642b3bfae76db8000
-SHA256: 653c884a7482663e8bb70da9208e2e81bdebea6f6c22e9d98092cce27d4b06a2
-Name: AppStore++Rootless.deb
-
-Package: AtriaRootless.deb
-Version: 
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: AtriaRootless.deb package for iOS
-Section: Tweaks
-Filename: ./debs/AtriaRootless.deb
-Size: 304220
-Installed-Size: 297
-MD5sum: d434f932be5c1755157620395a44d728
-SHA1: 1e65d5f52ada2f77262fc8c22ef77e6a5e8884b5
-SHA256: 23412015be72c4834cc999774cfb6741a91a197b71b66bb892b08134a320f2d7
-Name: AtriaRootless.deb
-
-Package: com.yourname.wamultisend
-Version: 1.0.0-1+debug
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: com.yourname.wamultisend package for iOS
-Section: Tweaks
-Filename: ./debs/com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64.deb
-Size: 7650
-Installed-Size: 7
-MD5sum: 12001b2f6e53ef5e86c26167b6a37613
-SHA1: b56c9c85086584ef0158b57e3847eea8226bbac2
-SHA256: 38efb6296cdc82659d4bb3ca707a54f0c0f44bf1ea08d9fa809e9a72b430d707
-Name: com.yourname.wamultisend
-
-Package: com.bekes-505.github.io.wamultisend
-Version: 1.0.0-1+debug
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: com.yourname.wamultisend package for iOS
-Section: Tweaks
-Filename: ./debs/com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64.deb
-Size: 7650
-Installed-Size: 7
-MD5sum: 12001b2f6e53ef5e86c26167b6a37613
-SHA1: b56c9c85086584ef0158b57e3847eea8226bbac2
-SHA256: 38efb6296cdc82659d4bb3ca707a54f0c0f44bf1ea08d9fa809e9a72b430d707
-Name: com.yourname.wamultisend
-
-Package: com. bekes-505.github.io.wamultisend
-Version: 1.0.0-1+debug
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: com.yourname.wamultisend package for iOS
-Section: Tweaks
-Filename: ./debs/com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64.deb
-Size: 7650
-Installed-Size: 7
-MD5sum: 12001b2f6e53ef5e86c26167b6a37613
-SHA1: b56c9c85086584ef0158b57e3847eea8226bbac2
-SHA256: 38efb6296cdc82659d4bb3ca707a54f0c0f44bf1ea08d9fa809e9a72b430d707
-Name: com.yourname.wamultisend
-
-Package: ErikaRootless.deb
-Version: 
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: ErikaRootless.deb package for iOS
-Section: Tweaks
-Filename: ./debs/ErikaRootless.deb
-Size: 128614
-Installed-Size: 125
-MD5sum: f533e9380621f46dc832eb0c42c642f6
-SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
-SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
-Name: ErikaRootless.deb
-
-Package: com. bekes-505.github.io.ErikaRootless
-Version: 
-Architecture: iphoneos-arm64
-Maintainer: 
-Description: ErikaRootless.deb package for iOS
-Section: Tweaks
-Filename: ./debs/ErikaRootless.deb
-Size: 128614
-Installed-Size: 125
-MD5sum: f533e9380621f46dc832eb0c42c642f6
-SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
-SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
-Name: ErikaRootless.deb
-
-
-Package: DisablePasteTipsRootless
+Package: A-FontRootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
-Maintainer: ÃÂ§ÃÂÃÂÃÂ·ÃÂÃÂ± ÃÂ§ÃÂÃÂ¹ÃÂ±ÃÂ¨ÃÂ
+Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
-Author: ÃÂÃÂ±ÃÂÃÂ ÃÂ§ÃÂÃÂªÃÂ·ÃÂÃÂÃÂ±
-Name: ÃÂ£ÃÂ¯ÃÂ§ÃÂ© ÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ©
-Description: ÃÂÃÂ°ÃÂ ÃÂ£ÃÂ¯ÃÂ§ÃÂ© ÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ© ÃÂªÃÂÃÂÃÂ± ÃÂÃÂ¸ÃÂ§ÃÂ¦ÃÂ ÃÂÃÂÃÂÃÂ¯ÃÂ© ÃÂÃÂÃÂ¸ÃÂ§ÃÂ iOS
-Section: Tweaks
-Homepage: https://example.com
-Filename: debs/DisablePasteTipsRootless.deb
-Size: 4672
-MD5sum: 67e5005c16382d0dba51b4a2951b50d6
-SHA1: 0660aad4f15a7a8b27f3cef6a1cb67adda78718d
-SHA256: 7c8ad24cc591ee6006f734b16a68438d92f25cd69d8452345a90ecfc6307f38e
+Author: BekEs-505
+Name: A-FontRootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/A-FontRootless.deb
+Size: 1621940
+MD5sum: d642f8eebeac491fb944a86fc3efa318
+SHA1: d642f8eebeac491fb944a86fc3efa3185513291b
+SHA256: d642f8eebeac491fb944a86fc3efa3185513291bd642f8eebeac491fb944a86fc3efa3185513291b
+
+
+Package: ABetterPrivacyforWhatsAppRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: ABetterPrivacyforWhatsAppRootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/ABetterPrivacyforWhatsAppRootless.deb
+Size: 146136
+MD5sum: 4bb699526b4a2df33b8ff41a066a9203
+SHA1: 4bb699526b4a2df33b8ff41a066a9203edd0cc7b
+SHA256: 4bb699526b4a2df33b8ff41a066a9203edd0cc7b4bb699526b4a2df33b8ff41a066a9203edd0cc7b
+
+
+Package: AmberRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: AmberRootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/AmberRootless.deb
+Size: 18584
+MD5sum: 858991897a7d429b7148382bb5edbbb9
+SHA1: 858991897a7d429b7148382bb5edbbb9ee350564
+SHA256: 858991897a7d429b7148382bb5edbbb9ee350564858991897a7d429b7148382bb5edbbb9ee350564
+
+
+Package: AnActuallyGoodFilzaEditorRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: AnActuallyGoodFilzaEditorRootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/AnActuallyGoodFilzaEditorRootless.deb
+Size: 121152
+MD5sum: f0447c1573405e8913e00cd267c78657
+SHA1: f0447c1573405e8913e00cd267c786570978fed0
+SHA256: f0447c1573405e8913e00cd267c786570978fed0f0447c1573405e8913e00cd267c786570978fed0
+
+
+Package: AnsweringMachineXSRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: AnsweringMachineXSRootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/AnsweringMachineXSRootless.deb
+Size: 750674
+MD5sum: acd544fe4de46437ae992fe109e854a6
+SHA1: acd544fe4de46437ae992fe109e854a6f34c17b0
+SHA256: acd544fe4de46437ae992fe109e854a6f34c17b0acd544fe4de46437ae992fe109e854a6f34c17b0
+
+
+Package: AppDataRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: AppDataRootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/AppDataRootless.deb
+Size: 995356
+MD5sum: 0ed2e3209fd445d502a627ac534da9c6
+SHA1: 0ed2e3209fd445d502a627ac534da9c6d43ce97b
+SHA256: 0ed2e3209fd445d502a627ac534da9c6d43ce97b0ed2e3209fd445d502a627ac534da9c6d43ce97b
+
+
+Package: AppPadRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: AppPadRootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/AppPadRootless.deb
+Size: 6936
+MD5sum: 02ae269deb1ea67d8e1942c3211097b1
+SHA1: 02ae269deb1ea67d8e1942c3211097b1e9493325
+SHA256: 02ae269deb1ea67d8e1942c3211097b1e949332502ae269deb1ea67d8e1942c3211097b1e9493325
+
+
+Package: AppStore++Rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: AppStore++Rootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/AppStore++Rootless.deb
+Size: 16985452
+MD5sum: f0f41e78eef128a046f0fcc16e585829
+SHA1: f0f41e78eef128a046f0fcc16e585829969113ce
+SHA256: f0f41e78eef128a046f0fcc16e585829969113cef0f41e78eef128a046f0fcc16e585829969113ce
+
+
+Package: AtriaRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: AtriaRootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/AtriaRootless.deb
+Size: 304220
+MD5sum: 310f7aba26b3fcb8cb7f94d68f20fc17
+SHA1: 310f7aba26b3fcb8cb7f94d68f20fc17cf9fdaa6
+SHA256: 310f7aba26b3fcb8cb7f94d68f20fc17cf9fdaa6310f7aba26b3fcb8cb7f94d68f20fc17cf9fdaa6
+
+
+Package: AutoScrollRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: AutoScrollRootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/AutoScrollRootless.deb
+Size: 8230
+MD5sum: 30f894051306263e905ac0cb3664680b
+SHA1: 30f894051306263e905ac0cb3664680b34e5e9cd
+SHA256: 30f894051306263e905ac0cb3664680b34e5e9cd30f894051306263e905ac0cb3664680b34e5e9cd
 
 
 Package: ByeHomeBottomBarXRootless
@@ -236,12 +176,80 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: ByeHomeBottomBarXRootless
-Description: ÙØ°Ù Ø£Ø¯Ø§Ø© ÙØªÙØ¯ÙØ© ØªÙÙØ± ÙØ¸Ø§Ø¦Ù ÙÙÙØ¯Ø©
-Section: Tweaks
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/ByeHomeBottomBarXRootless.deb
 Size: 145468
-MD5sum: a3a5374b5373cd5f7f44e97f2c585e06
-SHA1: 0dc5a84b65021c913d1d74d81650f03585526e71
-SHA256: 949f0ad71c2498724ddcbb7dc57ec494b00b09b24c7da2c167e92c25e57e9a54
+MD5sum: 0603c928aafb37123029f422175b438a
+SHA1: 0603c928aafb37123029f422175b438ad1f535a7
+SHA256: 0603c928aafb37123029f422175b438ad1f535a70603c928aafb37123029f422175b438ad1f535a7
+
+
+Package: DisablePasteTipsRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: DisablePasteTipsRootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/DisablePasteTipsRootless.deb
+Size: 4672
+MD5sum: 169bf7199aa3716304c0f9bbfc8d22cd
+SHA1: 169bf7199aa3716304c0f9bbfc8d22cda1595d99
+SHA256: 169bf7199aa3716304c0f9bbfc8d22cda1595d99169bf7199aa3716304c0f9bbfc8d22cda1595d99
+
+
+Package: ErikaRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: ErikaRootless
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/ErikaRootless.deb
+Size: 128614
+MD5sum: 2eb3d38256960771861c35e720b4d5cd
+SHA1: 2eb3d38256960771861c35e720b4d5cd273ccc43
+SHA256: 2eb3d38256960771861c35e720b4d5cd273ccc432eb3d38256960771861c35e720b4d5cd273ccc43
+
+
+Package: WATranslator_Dopamine_1.3
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: WATranslator_Dopamine_1.3
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/WATranslator_Dopamine_1.3.deb
+Size: 29920
+MD5sum: 1cb5fdecc95672c6906fecedf6a8debe
+SHA1: 1cb5fdecc95672c6906fecedf6a8debe56adc7d6
+SHA256: 1cb5fdecc95672c6906fecedf6a8debe56adc7d61cb5fdecc95672c6906fecedf6a8debe56adc7d6
+
+
+Package: com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64
+Description: ÙØµÙ Ø§ÙØ­Ø²ÙØ©
+Section: Utilities
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 7650
+MD5sum: f7c5f35411ac509cf7d556583c874a10
+SHA1: f7c5f35411ac509cf7d556583c874a10136511cf
+SHA256: f7c5f35411ac509cf7d556583c874a10136511cff7c5f35411ac509cf7d556583c874a10136511cf
 
