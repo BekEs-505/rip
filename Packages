@@ -2,7 +2,7 @@ Package: com.bekes-505.github.io.amberrootless
 Version: 1.2.1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Description: اداة وظيفتها : تغيير لون الفلاش الاصفر عوضاُ عن الابيض
+Description: Ø§Ø¯Ø§Ø© ÙØ¸ÙÙØªÙØ§ : ØªØºÙÙØ± ÙÙÙ Ø§ÙÙÙØ§Ø´ Ø§ÙØ§ØµÙØ± Ø¹ÙØ¶Ø§Ù Ø¹Ù Ø§ÙØ§Ø¨ÙØ¶
 Section: Tweaks
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
 Filename: ./debs/AmberRootless.deb
@@ -12,7 +12,7 @@ MD5sum: a8a2b71af0058c9853143e1843e98e12
 SHA1: 0baf277f61423b9d33587d8f28fc2b89ada32764
 SHA256: f14fcad3bae2e1072cebf81cdf248a91c7d38c39b7eabe1bf133ee5bf7346a3a
 Name: Amber Rootless
-Author: BekEs - بيكاس
+Author: BekEs - Ø¨ÙÙØ§Ø³
 
 Package: A-FontRootless.deb
 Version: 
@@ -210,4 +210,21 @@ MD5sum: f533e9380621f46dc832eb0c42c642f6
 SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
 SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
 Name: ErikaRootless.deb
+
+
+Package: DisablePasteTipsRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: المطور العربي
+Depends: firmware (>= 14.0)
+Author: فريق التطوير
+Name: أداة متقدمة
+Description: هذه أداة متقدمة توفر وظائف مفيدة لنظام iOS
+Section: Tweaks
+Homepage: https://example.com
+Filename: debs/DisablePasteTipsRootless.deb
+Size: 4672
+MD5sum: 67e5005c16382d0dba51b4a2951b50d6
+SHA1: 0660aad4f15a7a8b27f3cef6a1cb67adda78718d
+SHA256: 7c8ad24cc591ee6006f734b16a68438d92f25cd69d8452345a90ecfc6307f38e
 
