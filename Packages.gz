@@ -6,7 +6,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: A-FontRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/A-FontRootless.deb
@@ -23,7 +23,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: ABetterPrivacyforWhatsAppRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/ABetterPrivacyforWhatsAppRootless.deb
@@ -40,7 +40,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: AmberRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/AmberRootless.deb
@@ -57,7 +57,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: AnActuallyGoodFilzaEditorRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/AnActuallyGoodFilzaEditorRootless.deb
@@ -74,7 +74,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: AnsweringMachineXSRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/AnsweringMachineXSRootless.deb
@@ -91,7 +91,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: AppDataRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/AppDataRootless.deb
@@ -108,7 +108,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: AppPadRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/AppPadRootless.deb
@@ -125,7 +125,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: AppStore++Rootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/AppStore++Rootless.deb
@@ -142,7 +142,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: AtriaRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/AtriaRootless.deb
@@ -159,7 +159,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: AutoScrollRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/AutoScrollRootless.deb
@@ -176,7 +176,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: ByeHomeBottomBarXRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/ByeHomeBottomBarXRootless.deb
@@ -193,7 +193,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: DisablePasteTipsRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/DisablePasteTipsRootless.deb
@@ -210,7 +210,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: ErikaRootless
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/ErikaRootless.deb
@@ -227,7 +227,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: WATranslator_Dopamine_1.3
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/WATranslator_Dopamine_1.3.deb
@@ -244,7 +244,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64
-Description: ÃÂÃÂµÃÂ ÃÂ§ÃÂÃÂ­ÃÂ²ÃÂÃÂ©
+Description: ÃÂÃÂÃÂÃÂµÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂ²ÃÂÃÂÃÂÃÂ©
 Section: Utilities
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64.deb
@@ -261,7 +261,7 @@ Maintainer: BekEs-505
 Depends: firmware (>= 14.0)
 Author: BekEs-505
 Name: ErsatzRootless
-Description: ÙØ°Ù Ø£Ø¯Ø§Ø© ÙØªÙØ¯ÙØ© ØªÙÙØ± ÙØ¸Ø§Ø¦Ù ÙÙÙØ¯Ø©
+Description: ÃÂÃÂ°ÃÂ ÃÂ£ÃÂ¯ÃÂ§ÃÂ© ÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ© ÃÂªÃÂÃÂÃÂ± ÃÂÃÂ¸ÃÂ§ÃÂ¦ÃÂ ÃÂÃÂÃÂÃÂ¯ÃÂ©
 Section: Tweaks
 Homepage: https://github.com/BekEs-505/rip
 Filename: debs/ErsatzRootless.deb
@@ -269,4 +269,21 @@ Size: 74986
 MD5sum: d38dd6ffb3cb83123623cffa9061eff1
 SHA1: 61d6b14c43917fd6c1c2aa02a3122d1f3ae0e0b3
 SHA256: 44f5a580cb576fb9d32f1874d1f457d25ff70d44cf35de03ce37ee0b6934339b
+
+
+Package: iKeywi4Rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: iKeywi4Rootless
+Description: ÙØ°Ù Ø£Ø¯Ø§Ø© ÙØªÙØ¯ÙØ© ØªÙÙØ± ÙØ¸Ø§Ø¦Ù ÙÙÙØ¯Ø©
+Section: Tweaks
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/iKeywi4Rootless.deb
+Size: 383344
+MD5sum: 63d96f06998973cc55c2ff0d14b60ada
+SHA1: 0a60c9e9b38467bf5a3cb4db066b902d1928e3e5
+SHA256: af68f463138ac97a715c1a9c21056c21237b99ff2f58bccb00498349a96159ae
 
