@@ -2,7 +2,7 @@ Package: com.bekes-505.github.io.amberrootless
 Version: 1.2.1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Description: ÃÂ§ÃÂ¯ÃÂ§ÃÂ© ÃÂÃÂ¸ÃÂÃÂÃÂªÃÂÃÂ§ : ÃÂªÃÂºÃÂÃÂÃÂ± ÃÂÃÂÃÂ ÃÂ§ÃÂÃÂÃÂÃÂ§ÃÂ´ ÃÂ§ÃÂÃÂ§ÃÂµÃÂÃÂ± ÃÂ¹ÃÂÃÂ¶ÃÂ§ÃÂ ÃÂ¹ÃÂ ÃÂ§ÃÂÃÂ§ÃÂ¨ÃÂÃÂ¶
+Description: ÃÂÃÂ§ÃÂÃÂ¯ÃÂÃÂ§ÃÂÃÂ© ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ§ : ÃÂÃÂªÃÂÃÂºÃÂÃÂÃÂÃÂÃÂÃÂ± ÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂ´ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ§ÃÂÃÂµÃÂÃÂÃÂÃÂ± ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ¶ÃÂÃÂ§ÃÂÃÂ ÃÂÃÂ¹ÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ§ÃÂÃÂ¨ÃÂÃÂÃÂÃÂ¶
 Section: Tweaks
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
 Filename: ./debs/AmberRootless.deb
@@ -12,7 +12,7 @@ MD5sum: a8a2b71af0058c9853143e1843e98e12
 SHA1: 0baf277f61423b9d33587d8f28fc2b89ada32764
 SHA256: f14fcad3bae2e1072cebf81cdf248a91c7d38c39b7eabe1bf133ee5bf7346a3a
 Name: Amber Rootless
-Author: BekEs - ÃÂ¨ÃÂÃÂÃÂ§ÃÂ³
+Author: BekEs - ÃÂÃÂ¨ÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂ³
 
 Package: A-FontRootless.deb
 Version: 
@@ -215,11 +215,11 @@ Name: ErikaRootless.deb
 Package: DisablePasteTipsRootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
-Maintainer: Ø§ÙÙØ·ÙØ± Ø§ÙØ¹Ø±Ø¨Ù
+Maintainer: ÃÂ§ÃÂÃÂÃÂ·ÃÂÃÂ± ÃÂ§ÃÂÃÂ¹ÃÂ±ÃÂ¨ÃÂ
 Depends: firmware (>= 14.0)
-Author: ÙØ±ÙÙ Ø§ÙØªØ·ÙÙØ±
-Name: Ø£Ø¯Ø§Ø© ÙØªÙØ¯ÙØ©
-Description: ÙØ°Ù Ø£Ø¯Ø§Ø© ÙØªÙØ¯ÙØ© ØªÙÙØ± ÙØ¸Ø§Ø¦Ù ÙÙÙØ¯Ø© ÙÙØ¸Ø§Ù iOS
+Author: ÃÂÃÂ±ÃÂÃÂ ÃÂ§ÃÂÃÂªÃÂ·ÃÂÃÂÃÂ±
+Name: ÃÂ£ÃÂ¯ÃÂ§ÃÂ© ÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ©
+Description: ÃÂÃÂ°ÃÂ ÃÂ£ÃÂ¯ÃÂ§ÃÂ© ÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ© ÃÂªÃÂÃÂÃÂ± ÃÂÃÂ¸ÃÂ§ÃÂ¦ÃÂ ÃÂÃÂÃÂÃÂ¯ÃÂ© ÃÂÃÂÃÂ¸ÃÂ§ÃÂ iOS
 Section: Tweaks
 Homepage: https://example.com
 Filename: debs/DisablePasteTipsRootless.deb
@@ -227,4 +227,21 @@ Size: 4672
 MD5sum: 67e5005c16382d0dba51b4a2951b50d6
 SHA1: 0660aad4f15a7a8b27f3cef6a1cb67adda78718d
 SHA256: 7c8ad24cc591ee6006f734b16a68438d92f25cd69d8452345a90ecfc6307f38e
+
+
+Package: ByeHomeBottomBarXRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: ByeHomeBottomBarXRootless
+Description: ÙØ°Ù Ø£Ø¯Ø§Ø© ÙØªÙØ¯ÙØ© ØªÙÙØ± ÙØ¸Ø§Ø¦Ù ÙÙÙØ¯Ø©
+Section: Tweaks
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/ByeHomeBottomBarXRootless.deb
+Size: 145468
+MD5sum: a3a5374b5373cd5f7f44e97f2c585e06
+SHA1: 0dc5a84b65021c913d1d74d81650f03585526e71
+SHA256: 949f0ad71c2498724ddcbb7dc57ec494b00b09b24c7da2c167e92c25e57e9a54
 
