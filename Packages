@@ -197,3 +197,17 @@ SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
 SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
 Name: ErikaRootless.deb
 
+Package: com. bekes-505.github.io.ErikaRootless
+Version: 
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: ErikaRootless.deb package for iOS
+Section: Tweaks
+Filename: ./debs/ErikaRootless.deb
+Size: 128614
+Installed-Size: 125
+MD5sum: f533e9380621f46dc832eb0c42c642f6
+SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
+SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
+Name: ErikaRootless.deb
+
