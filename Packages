@@ -2,7 +2,7 @@ Package: com.bekes-505.github.io.amberrootless
 Version: 1.2.1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Description: ÃÂÃÂ§ÃÂÃÂ¯ÃÂÃÂ§ÃÂÃÂ© ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ§ : ÃÂÃÂªÃÂÃÂºÃÂÃÂÃÂÃÂÃÂÃÂ± ÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂ´ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ§ÃÂÃÂµÃÂÃÂÃÂÃÂ± ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ¶ÃÂÃÂ§ÃÂÃÂ ÃÂÃÂ¹ÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ§ÃÂÃÂ¨ÃÂÃÂÃÂÃÂ¶
+Description: اداة وظيفتها : تغيير لون الفلاش الاصفر عوضاُ عن الابيض
 Section: Tweaks
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
 Filename: ./debs/AmberRootless.deb
@@ -12,7 +12,7 @@ MD5sum: a8a2b71af0058c9853143e1843e98e12
 SHA1: 0baf277f61423b9d33587d8f28fc2b89ada32764
 SHA256: f14fcad3bae2e1072cebf81cdf248a91c7d38c39b7eabe1bf133ee5bf7346a3a
 Name: Amber Rootless
-Author: BekEs - ÃÂÃÂ¨ÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂ³
+Author: BekEs - بيكاس
 
 Package: A-FontRootless.deb
 Version: 
@@ -183,54 +183,17 @@ SHA1: b56c9c85086584ef0158b57e3847eea8226bbac2
 SHA256: 38efb6296cdc82659d4bb3ca707a54f0c0f44bf1ea08d9fa809e9a72b430d707
 Name: com.yourname.wamultisend
 
-
-Package: ErikaRootless
-Version: 1.0.0
+Package: ErikaRootless.deb
+Version: 
 Architecture: iphoneos-arm64
-Maintainer: ÃÂ§ÃÂÃÂÃÂ·ÃÂÃÂ± ÃÂ§ÃÂÃÂ¹ÃÂ±ÃÂ¨ÃÂ
-Depends: firmware (>= 14.0)
-Author: ÃÂÃÂ±ÃÂÃÂ ÃÂ§ÃÂÃÂªÃÂ·ÃÂÃÂÃÂ±
-Name: ÃÂ£ÃÂ¯ÃÂ§ÃÂ© ÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ©
-Description: ÃÂÃÂ°ÃÂ ÃÂ£ÃÂ¯ÃÂ§ÃÂ© ÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ© ÃÂªÃÂÃÂÃÂ± ÃÂÃÂ¸ÃÂ§ÃÂ¦ÃÂ ÃÂÃÂÃÂÃÂ¯ÃÂ© ÃÂÃÂÃÂ¸ÃÂ§ÃÂ iOS
+Maintainer: 
+Description: ErikaRootless.deb package for iOS
 Section: Tweaks
-Homepage: https://example.com
-Filename: debs/ErikaRootless.deb
+Filename: ./debs/ErikaRootless.deb
 Size: 128614
+Installed-Size: 125
 MD5sum: f533e9380621f46dc832eb0c42c642f6
 SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
 SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
-
-
-Package: ErikaRootless
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Ø§ÙÙØ·ÙØ± Ø§ÙØ¹Ø±Ø¨Ù
-Depends: firmware (>= 14.0)
-Author: ÙØ±ÙÙ Ø§ÙØªØ·ÙÙØ±
-Name: Ø£Ø¯Ø§Ø© ÙØªÙØ¯ÙØ©
-Description: ÙØ°Ù Ø£Ø¯Ø§Ø© ÙØªÙØ¯ÙØ© ØªÙÙØ± ÙØ¸Ø§Ø¦Ù ÙÙÙØ¯Ø© ÙÙØ¸Ø§Ù iOS
-Section: Tweaks
-Homepage: https://example.com
-Filename: debs/ErikaRootless.deb
-Size: 128614
-MD5sum: f533e9380621f46dc832eb0c42c642f6
-SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
-SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
-
-
-Package: com.bekes-505.github.io.ErikaRootless
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: المطور العربي
-Depends: firmware (>= 14.0)
-Author: فريق التطوير
-Name: أداة متقدمة
-Description: هذه أداة متقدمة توفر وظائف مفيدة لنظام iOS
-Section: Tweaks
-Homepage: https://example.com
-Filename: debs/ErikaRootless.deb
-Size: 128614
-MD5sum: f533e9380621f46dc832eb0c42c642f6
-SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
-SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
+Name: ErikaRootless.deb
 
