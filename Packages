@@ -1,18 +1,201 @@
+Package: com.bekes-505.github.io.a-fontrootless
+Version: 1.9.3
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 2476
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: debs/A-FontRootless.deb
+Size: 1621940
+MD5sum: 79da18011a5cbf640b2af05491aed37e
+SHA1: 298f9bd2f75e1e5bb4b65dc006d1b429d41c417f
+SHA256: 316b27f27c91e332e1c0578eb560aa57581130021c224f59e12dc16bb4a4c869
+Section: Tweaks
+Description: اداة وظيفتها : تغير خطوط الايفون الي خطوط كثير ومدموجه معها
+Author: BekEs - بيكاس
+Name: A-Font Rootless
+
+Package: com.bekes-505.github.io.abwhatsapprootless
+Version: 1.6.4
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 721
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: debs/ABetterPrivacyforWhatsAppRootless.deb
+Size: 146136
+MD5sum: 89fb87f63e68f42267f2f42190b10064
+SHA1: 673806ffa68ce1e5ba7cb3f873d2735c305fe9fe
+SHA256: 2891696a56dadf674c31f61aa0d4d76e0f48b352950ce04696b0be3e0b16b2d6
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : اضافة مميزات كثير لتطبيق الواتساب مثل اخفاء متصل الان اخفاء انك شفت الرساله واخفاء انك شفت الحاله، والتحكم في لون المحادثات مميزات كثيرھ مرھ للوات ساب
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: lucaluca86
+Name: ABetterPrivacyforWhatsApp Rootless
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.bekes-505.github.io.amberrootless
 Version: 1.2.1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Description: اداة وظيفتها : تغيير لون الفلاش الاصفر عوضاُ عن الابيض
-Section: Tweaks
+Installed-Size: 368
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
-Filename: ./debs/AmberRootless.deb
+Filename: debs/AmberRootless.deb
 Size: 18584
-Installed-Size: 18
 MD5sum: a8a2b71af0058c9853143e1843e98e12
 SHA1: 0baf277f61423b9d33587d8f28fc2b89ada32764
 SHA256: f14fcad3bae2e1072cebf81cdf248a91c7d38c39b7eabe1bf133ee5bf7346a3a
-Name: Amber Rootless
+Section: Tweaks
+Description: اداة وظيفتها : تغيير لون الفلاش الاصفر عوضاُ عن الابيض
 Author: BekEs - بيكاس
+Name: Amber Rootless
+
+Package: com.bekes-505.github.io.anactualrootless
+Version: 0.1.0~beta2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: debs/AnActuallyGoodFilzaEditorRootless.deb
+Size: 121152
+MD5sum: bb2b818c14cb59ce69f72452df4c69c5
+SHA1: d3a35c685256ad809c1df81ae8e435f4ab95b76d
+SHA256: ddc2a92c89c4275fcdc76d4d57639417f1624b4dad6952b99ea3eea286e24e97
+Section: Tweaks
+Description: اداة وظيفتها : لمحرر النصوص داخل فيلزا لكتابتة الاوامر وتسهليها في تقسيم
+Author: BekEs - بيكاس
+Name: AnActuallyGoodFilzaEditor Rootless
+
+Package: com.bekes-505.github.io.answermachinexrotles
+Version: 2.0-2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 2464
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158) ,  firmware (>= 11.0)
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Filename: debs/AnsweringMachineXSRootless.deb
+Size: 750674
+MD5sum: ae584290b6e08a1310169c969ce94a63
+SHA1: 750826eed6c12e5fe0af32ba6135853438b6bef4
+SHA256: e3d0b64e407103e3de6a6461b6a0b5ff955c536d784a6d1e8bdd7a8d4896ce96
+Section: Tweaks
+Description: اداة وظيفتها : الرد الآلي على المكالمات مع تخصيص رسالة صوتية بصوتك او بصوت آلي
+Author: BekEs - بيكاس
+Name: AnsweringMachine XS Rootless
+
+Package: com.bekes-505.github.io.appdatarootless
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 2412
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/AppDataRootless.deb
+Size: 995356
+MD5sum: 07f05269fd888b61aeb5a703802b7588
+SHA1: 2132cb203671a72753c1fdee4d471443129b0eed
+SHA256: d291fd2e7b00b0a3a9b8ce5a8c228526d54fc6c50ad1a0d330c5b0b1c4ae898e
+Section: Tweaks
+Description: اداة وظيفتها : ارجاع اصدارات التطبيقات و تنظيف ملفات الكاش وحذف الاشعارات والدخول لمسارات التطبيق بسهوله وغيره،تضغط ضغطه مطوله على التطبيق وتختار AppData وتظهرلك الخيارات
+Author: BekEs - بيكاس
+Name: AppData Rootless
+
+Package: com.bekes-505.github.io.apppadrootless
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 172
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
+Filename: debs/AppPadRootless.deb
+Size: 6936
+MD5sum: 0daeeb73dcafa72f49234b5d885e980e
+SHA1: 93e6730b5891e6e917069b58e48cd5952fccc7cc
+SHA256: 89f59cacd98d40b4fdb86ddb4fe0e1f6ddc87ffd21ffd0dd8e4bbc0665ba448d
+Section: Tweaks
+Description: اداة وظيفتها : خاصه بالايباد لجعل التطبيقات تقبل كامل الشاشه وتقبل الدوران
+Author: BekEs - بيكاس
+Name: AppPad Rootless
+
+Package: com.bekes-505.github.io.appstorerotles
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>=10.0), oldabi
+Filename: debs/AppStore++Rootless.deb
+Size: 16985452
+MD5sum: 4585236b555777cb4cf2a3851c82d7f7
+SHA1: c6c69b0db3e7826b42e0fb8642b3bfae76db8000
+SHA256: 653c884a7482663e8bb70da9208e2e81bdebea6f6c22e9d98092cce27d4b06a2
+Section: Tweaks
+Description: اداة وظيفتها : ابل ستور بلس لارجاع التطبيقات على اصدارات قديمھ
+Author: BekEs - بيكاس
+Name: AppStore++ Rootless
+Tags: compatible_min::ios10.0
+
+Package: com.bekes-505.github.io.atriarootless
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 886
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: debs/AtriaRootless.deb
+Size: 304220
+MD5sum: d434f932be5c1755157620395a44d728
+SHA1: 1e65d5f52ada2f77262fc8c22ef77e6a5e8884b5
+SHA256: 23412015be72c4834cc999774cfb6741a91a197b71b66bb892b08134a320f2d7
+Section: Tweaks
+Description: A proper homescreen layout editor for iOS 13-16
+Tag: compatible_min::ios13.0
+Author: BekEs - بيكاس
+Name: Atria Rootless
+
+Package: com.bekes-505.github.io.autoscrollrotles
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: mobilesubstrate
+Filename: debs/AutoScrollRootless.deb
+Size: 8230
+MD5sum: 579796f52bdbd7f9fefdb45ff7773347
+SHA1: d232047bfeeb2d3fca88ee0a59bc98684f62729e
+SHA256: 24eaccf2e32fc4ecb3d6673dd66175601ecf9ea53ff77bd8c3188a6a6bcb7a4d
+Section: Tweaks
+Description: اداة وظيفتها : تحريك الصفحة بدون وضع الاصبع و بعد تحريك الاصبع لختيار سرعة التصفح يتم التحريك بشكل تلقائي
+Author: BekEs - بيكاس
+Name: AutoScroll Rootless
+
+Package: com.cm90.watranslator
+Version: 1.3-2+debug
+Architecture: iphoneos-arm64
+Maintainer: @CrazyMind90
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: debs/WATranslator_Dopamine_1.3.deb
+Size: 29920
+MD5sum: e52afbd6e3116b20d8d14b96fbd29ade
+SHA1: 7768e1ab3b92b7edfd18a74b2242f1effbacb43d
+SHA256: 6c1484fea70465f790953870fd7e9c2730e73c4827e2862a59faf835884b63d8
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @CrazyMind90
+Name: WATranslator
+
+Package: com.yourname.wamultisend
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: YourName
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), firmware (<< 16.9)
+Filename: debs/com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 7650
+MD5sum: 12001b2f6e53ef5e86c26167b6a37613
+SHA1: b56c9c85086584ef0158b57e3847eea8226bbac2
+SHA256: 38efb6296cdc82659d4bb3ca707a54f0c0f44bf1ea08d9fa809e9a72b430d707
+Section: Tweaks
+Description: إرسال متعدد للواتساب بالضغط الطويل
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.9
+Author: YourName
+Name: WA MultiSend Rootless
 
 Package: A-FontRootless.deb
 Version: 
