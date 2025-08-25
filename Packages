@@ -355,3 +355,20 @@ MD5sum: e5f66db59ead10e1553c24e644bdc5e3
 SHA1: 9668b5425f901c2ad9af2fedef1ddedd9876cc0d
 SHA256: a916e327aed5b4f5ad693f587ac25f442a8e72628c2e3a274f3dcda90a60c101
 
+
+Package: Patch6rbRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: Patch6rbRootless
+Description: هذه أداة متقدمة توفر وظائف مفيدة
+Section: Tweaks
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/Patch6rbRootless.deb
+Size: 4662
+MD5sum: ccab0d577ec1ed053fd91a3ed20a21dc
+SHA1: bdedf1422eff97f8b268b76c3b9a62190a6f6e53
+SHA256: 33a5d7e9f64a26c3a4d5c80f0b8ad26f8e47664020758742bebc7b4f94f0ad65
+
