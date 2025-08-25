@@ -406,3 +406,20 @@ MD5sum: 83f1a524396e2a0a6d4a02ce32092200
 SHA1: aa3b050718f0fc4651cf717598f2288fbf6698ec
 SHA256: ae91ec605cd7d5bc46b71ca9ba54531a5224e5322c4c5628c70507baeab464f8
 
+
+Package: Patch6rbRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BekEs-505
+Depends: firmware (>= 14.0)
+Author: BekEs-505
+Name: Patch6rbRootless
+Description: هذه أداة متقدمة توفر وظائف مفيدة
+Section: Tweaks
+Homepage: https://github.com/BekEs-505/rip
+Filename: debs/PFPViewerRootless.deb
+Size: 271818
+MD5sum: 16da7695d998d46d4d107608f5e4d7b7
+SHA1: c506ca40429265378b768087819f4b708e6fdbf0
+SHA256: d68ff76d298be58ad41c1725efa6d1dbce3409b72591e6f9fac07ad77aeef77d
+
